@@ -13,6 +13,7 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick0105&layout=compact"/>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=patrick0105&theme=moltack&bg_color=cca845a&hide_border=true" width="100%"/>
 </p>
