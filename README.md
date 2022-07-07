@@ -11,8 +11,9 @@
   </div>
 
   <br><br><br><br><br><br><br><br><br>
-  
+   </a>
   <img align="center" src="https://github.com/patrick0105/patrick0105/blob/output/github-contribution-grid-snake.gif" width="100%">
+   <a href="https://github.com/Patrick0105?tab=repositories" title="Go to My Repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick0105&layout=compact" width="100%">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=patrick0105&theme=moltack&bg_color=cca845a&hide_border=true" width="100%"/>
   </a>
