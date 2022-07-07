@@ -11,7 +11,7 @@
     <img align="right" width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=patrick0105&theme=moltack&hide_border=false&border=fff89c" />
   </div>
 
-  <br>
+  <br><br>
    </a>
   <img align="center" src="https://github.com/patrick0105/patrick0105/blob/output/github-contribution-grid-snake.gif" width="100%">
   <br>
