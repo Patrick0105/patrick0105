@@ -8,7 +8,7 @@
 <a href="https://github.com/Patrick0105?tab=repositories" title="Go to My Repositories">
   <div align=center>
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=patrick0105&count_private=true&show_icons=true&theme=moltack&hide_border=true" alt="patrick0105" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick0105&theme=moltack&hide_border=false&border=fff89c" alt="patrick0105" />
+    <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick0105&theme=moltack&hide_border=false&border=fff89c" alt="patrick0105" />
   </div>
  </a>
   <br><br>
